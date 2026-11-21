@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640" role="img" aria-label="Loan operations task list screen mockup">
+  <!-- screen background -->
+  <rect x="0" y="0" width="360" height="640" fill="#FFFFFF"/>
+  <!-- status/header bar -->
+  <rect x="0" y="0" width="360" height="64" fill="#0F766E"/>
+  <text x="20" y="40" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Loan Ops Tasks</text>
+  <circle cx="330" cy="32" r="12" fill="#14B8A6"/>
+  <!-- section label -->
+  <text x="20" y="104" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#334155">Today</text>
+  <!-- task list -->
+  <rect x="20" y="120" width="320" height="72" rx="10" fill="#F1F5F9"/>
+  <circle cx="44" cy="144" r="9" fill="#0F766E"/>
+  <text x="64" y="149" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Verify KYC documents</text>
+  <text x="64" y="172" font-family="system-ui, sans-serif" font-size="12" fill="#A0A0A0">Due 3:00 PM, Credit team</text>
+
+  <rect x="20" y="204" width="320" height="72" rx="10" fill="#F1F5F9"/>
+  <circle cx="44" cy="228" r="9" fill="none" stroke="#0F766E" stroke-width="2"/>
+  <text x="64" y="233" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Review risk flags</text>
+  <text x="64" y="256" font-family="system-ui, sans-serif" font-size="12" fill="#A0A0A0">Due 5:30 PM, Underwriting</text>
+
+  <rect x="20" y="288" width="320" height="72" rx="10" fill="#F1F5F9"/>
+  <circle cx="44" cy="312" r="9" fill="none" stroke="#0F766E" stroke-width="2"/>
+  <text x="64" y="317" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Escalate overdue account</text>
+  <text x="64" y="340" font-family="system-ui, sans-serif" font-size="12" fill="#A0A0A0">Due tomorrow, Collections</text>
+
+  <!-- section label -->
+  <text x="20" y="404" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#334155">Upcoming</text>
+
+  <rect x="20" y="420" width="320" height="72" rx="10" fill="#F1F5F9"/>
+  <circle cx="44" cy="444" r="9" fill="none" stroke="#0F766E" stroke-width="2"/>
+  <text x="64" y="449" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Draft repayment reminder</text>
+  <text x="64" y="472" font-family="system-ui, sans-serif" font-size="12" fill="#A0A0A0">Friday, Servicing</text>
+
+  <!-- bottom tab bar -->
+  <rect x="0" y="560" width="360" height="80" fill="#F1F5F9"/>
+  <rect x="0" y="560" width="360" height="1" fill="#D6DEE8"/>
+  <text x="52" y="600" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0F766E">Tasks</text>
+  <text x="152" y="600" font-family="system-ui, sans-serif" font-size="12" fill="#64748B">Payments</text>
+  <text x="258" y="600" font-family="system-ui, sans-serif" font-size="12" fill="#64748B">Profile</text>
+  <!-- floating action button -->
+  <circle cx="312" cy="524" r="24" fill="#0F766E"/>
+  <text x="304" y="532" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">+</text>
+</svg>
